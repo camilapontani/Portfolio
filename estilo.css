@@ -199,9 +199,8 @@ button:active {
     background-color: rgb(255, 204, 221);
     border-radius: 10px;
     font-weight: bold;
-    margin: 0px 3px;
+    margin: 3px 3px;
 }
-
 
 /* Estilo Imagem Skill */
 
@@ -240,6 +239,19 @@ button:active {
     font-size: 16px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     list-style: disc;
+}
+
+.projetos button {
+    width: 120px;
+    height: 40px;
+    color: #6d6b6b;
+    outline: none;
+    border: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(227, 204, 240);
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 3px 3px;
 }
 
 /* Seção de Cursos */
